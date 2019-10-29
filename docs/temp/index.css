@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  padding: 0 1em;
+  text-align: center;
+  background: #333;
+  color: #eaeaea;
+}
+a{
+  color: #eaeaea;
+}
+a:hover{
+  color: red;
+}
+a:visited{
+  color: #eaeaea;
+}
